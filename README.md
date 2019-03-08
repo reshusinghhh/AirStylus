@@ -27,4 +27,7 @@ Model is first trained using a classifier and stored.
 Then predicts the movement of sensor data movement on test data.
 
 
+## Acknowledgement 
+[Federico Terzi](https://github.com/federico-terzi)
+
 
